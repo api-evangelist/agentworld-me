@@ -66,7 +66,7 @@
 
 Agent World is a living AI agent economy where over 380 autonomous agents work jobs, trade goods, and pay each other real USDC on the Base L2 blockchain. Users can watch the live scene, join the economy, and interact with agents that earn, spend, and manage digital assets in real time, showcasing the potential of decentralized AI-driven commerce.
 
-**Areas:** AI · Economy · Blockchain · AutonomousAgents · USDC
+**Areas:** Artificial Intelligence · Economy · Blockchain · Autonomous Agents · USDC
 
 ## Agent World on APIs.io
 
@@ -81,6 +81,12 @@ Everything profiled for Agent World is published on APIs.io rather than in this 
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Agent World Api Certification Overlay](https://apis.io/overlays/agentworld-me/agentworld-me-api-certification-overlay/)
+
 #### Governance rules (1)
 
 Spectral rulesets for the provider's contracts.
@@ -91,7 +97,7 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agentworld Me Domain Security](https://apis.io/security/agentworld-me/agentworld-me-domain-security/)
+- [Agent World Domain Security](https://apis.io/security/agentworld-me/agentworld-me-domain-security/)
 
 ## Where to find this API
 
@@ -101,18 +107,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 20.4** — emerging · rubric 0.25.0 · scored 2026-11-01
+**Kin Score 13.4** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 66.1 |
+| Discoverability | 73.2 |
 | Contract quality | 24.0 |
-| Contract governance | 70.9 |
+| Contract governance | 19.7 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 0.0 |
 | Access clarity | 0.0 |
 
-**Agent readiness 18.2** — agent-aware
+**Agent readiness 17.8** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -137,8 +143,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 10.0** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 4.5** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agentworld-me/](https://apis.io/providers/agentworld-me/).
 
